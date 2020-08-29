@@ -252,7 +252,7 @@
                                 <p><i class="far fa-calendar-alt"></i> Martes a Domingo</p>
                             </div>
                             <div class="span-md-3">
-                                <p><i class="far fa-clock"></i> 09:00 a 21:00 hs.</p>
+                                <p><i class="far fa-clock"></i> 09:00 a 19:00 hs.</p>
                             </div>
                             <div class="span-md-3">
                                 <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2068-6943</p>
