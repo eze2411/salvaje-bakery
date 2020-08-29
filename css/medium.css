@@ -79,9 +79,6 @@
   .grid-no-gap .span-md-6 {
     grid-column: span 6;
   }
-  .main-productos .panes .flip-card {
-    margin-top: 3.5rem;
-  }
   main.main .instagram-plugin {
     padding-top: 6rem;
     padding-bottom: 6rem;
@@ -115,9 +112,6 @@
   main.main .second .parte-dos img.parte-dos-img-left {
     margin-bottom: 0rem;
     padding-right: 2rem;
-  }
-  main.main .second .parte-dos .btn-pan {
-    margin-top: 0;
   }
   main.main .third .parte-uno .menu-fotos p {
     font-size: 1rem;

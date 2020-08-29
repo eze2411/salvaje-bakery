@@ -67,9 +67,6 @@
   .grid-no-gap .span-md-7 {
     grid-column: span 12;
   }
-  .main-productos .panes .flip-card {
-    margin-top: 3rem;
-  }
   main.main .nosotros .nosotros-carousel {
     padding-bottom: 2rem;
   }
@@ -82,9 +79,6 @@
   }
   main.main .second .parte-dos {
     padding-bottom: 4rem;
-  }
-  main.main .second .parte-dos .btn-pan {
-    margin-top: 2rem;
   }
   main.main .parallax {
     background-attachment: scroll;
