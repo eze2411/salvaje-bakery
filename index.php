@@ -155,21 +155,14 @@
                 <div class="parte-uno">
                     <div class="container">
                         <div class="grid-doce">
-                            <div class="span-md-4">
+                            <div class="span-md-6">
                                 <a target="_blank" href="img/MenuSalvaje.pdf">
                                     <div id="menu-fotos-uno" class="menu-fotos display-flex display-flex-center display-flex-center-2">
                                         <p>Menú Salvaje</p>
                                     </div>
                                 </a>
                             </div>
-                            <div class="span-md-4">
-                                <a href="/nosotros.php">
-                                    <div id="menu-fotos-dos" class="menu-fotos display-flex display-flex-center display-flex-center-2">
-                                        <p>Nuestra Historia</p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="span-md-4">
+                            <div class="span-md-6">
                                 <a href="/unitealequipo.php">
                                     <div id="menu-fotos-tres" class="menu-fotos display-flex display-flex-center display-flex-center-2">
                                         <p>Trabajá con nosotros</p>
