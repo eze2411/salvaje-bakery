@@ -143,7 +143,6 @@
                         <p class="bold">Pan de Masa Madre</p>
                         <p>Nuestra misión diaria es ofrecer panes distintos y artesanales. Al trabajar con masa madre y llamarnos Salvaje, el comportamiento de nuestros panes es orgánico, nunca salen idénticos y tampoco buscamos eso. Usamos las mejores harinas posibles, generando combinaciones únicas. </p>
                         <p>No usamos harina 0000 ni leudante. Cada receta se compone de un blend exclusivo de harinas y trabajamos con nuestras manos, recuperando así, el valor y el sabor del producto artesanal. Toda la elaboración es a la vista. Todo lo que ofrecemos, se hace acá mismo.</p>
-                        <a href="/productos.php" class="btn btn-primary btn-pan">  Nuestros Productos</a>
                     </div>
                 </div>
             </div>
