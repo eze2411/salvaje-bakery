@@ -178,51 +178,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="parte-dos">
-                    <div class="grid-no-gap parte-dos-libro">
-                        <div class="span-md-6 background-img-libro">
-                            
-                        </div>
-                        <div class="span-md-6">
-                            <div class="libro-descripcion display-flex display-flex-column display-flex-center">
-                                <h3>Pan de Garage</h3>
-                                <p>Conseguilo online, en todas las librerías del país y en nuestro local.</p>
-                                <div>
-                                    <a target="_blank" href="https://www.planetadelibros.com.ar/libro-pan-de-garage/296989#soporte/300461">
-                                        <img src="img/parte-dos-ebook.png" alt="">
-                                    </a>    
-                                    <a target="_blank" href="https://articulo.mercadolibre.com.ar/MLA-797300712-pan-de-garage-german-torres-_JM?quantity=1#position=3&type=item&tracking_id=5196ad79-e241-4d0e-9649-14b82b6b9800">
-                                        <img src="img/parte-dos-mercadolibre.png" alt="">
-                                    </a>
-                                </div>
-                                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                                    <ol class="carousel-indicators">
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                                        
-                                    </ol>
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <p>¨La aparición de Salvaje nos obligo a todos los cocineros a usar pan de altísima calidad, como nunca antes. De Salvaje me gusta lo no domado, esa suelta de energía que nunca sabes a donde te lleva.¨</p>
-                                            <p>Antonio Soriano, chef ejecutivo del Palacio Duhau.</p><br><br>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <p>¨Salvaje es lo que es. El publico entra, lleva un pan para la casa, se toma una taza de café o se sienta a llenarse de bocaditos de la casa. En las paredes no hay lujo, solo muestras de un proyecto hecho con esfuerzo, con amor y con el deseo de dar cada día un mejor pan.¨</p>
-                                            <p>Santiago Macias, chef y dueño de I Latina.</p><br>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <p>¨Dedicado, apasionado y soñador, esa es la receta de German Torres. Lo mejor se está horneando.¨</p>
-                                            <p>Gonzalo Aramburu, chef de Aramburu</p><br><br><br>
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div class="instagram-plugin">
                 <div class="container">

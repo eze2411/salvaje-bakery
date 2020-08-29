@@ -1203,42 +1203,6 @@ main.main .third .parte-uno .menu-fotos p:hover {
   text-decoration: none;
 }
 
-main.main .third .parte-dos .libro-descripcion {
-  background-image: url(../img/parte-dos-libro-fondo.png);
-  background-size: cover;
-  color: white;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  padding-bottom: 3rem;
-  height: 100%;
-}
-
-main.main .third .parte-dos .libro-descripcion h3 {
-  padding-top: 3rem;
-  margin-bottom: 1.75rem;
-}
-
-main.main .third .parte-dos .libro-descripcion p {
-  line-height: 26px;
-}
-
-main.main .third .parte-dos .libro-descripcion p.bold {
-  margin-bottom: 3rem;
-}
-
-main.main .third .parte-dos .libro-descripcion img {
-  padding-right: 2.75rem;
-  margin-bottom: 3.75rem;
-}
-
-main.main .third .parte-dos .background-img-libro {
-  background-image: url(../img/parte-dos-libro.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top center;
-  min-height: 21.875rem;
-}
-
 main.main .instagram-plugin {
   padding-top: 4.5rem;
   padding-bottom: 4.5rem;
