@@ -86,14 +86,16 @@
                             <div class="display-flex display-flex-column display-flex-center">
                                 <div>
                                     <img class="second-zepplin d-xs-none d-sm-none d-md-none d-lg-block" src="img/home-second-zeppelin.png" alt="">
-                                </div>    
+                                </div>
                                 <p class="bold">Panadería alternativa de barrio. </p>
                                 <p>Somos una panadería artesanal puesta en marcha en un garage de Colegiales/Palermo, donde marcamos un estilo particular en cada producto que ofrecemos. En Salvaje nada es común. Ni un café ni una simple medialuna. </p>
-                                <p>Nuestros panes son diariamente pensados, mezclando harinas, masa madre y larga fermentación. 
-                                <br>
-                                Nuestra pastelería es integral y con una vuelta de rosca. Todo el hojaldre es amasado y estirado a mano. </p>
-                                <p>En Salvaje siempre suena buena música, el café es de excelente calidad, y además contamos con una rica propuesta de almuerzo y brunch. Sánguches, tartas, sopas, jugos, tragos y algunos vinos. Tenemos opciones vegan de cocina y pastelería, y también nuestra propia leche de almendras hecha en Salvaje.</p>
-                                <p>Abrimos de martes a domingos, de 9.00 a 21.00. Lunes cerrado, pase lo que pase. </p>
+                                <p>Formamos, pero tambien aprendimos de muchos profesionales durante estos casi 4 años. Hoy en dia ofrecemos cafe para llevar, y una gran variedad de pasteleria.</p>
+                                <p>
+                                    Nuestros panes son diariamente pensados, mezclando harinas, masa madre y larga fermentación.
+                                    <br>
+                                    Cada dia Salvaje es un poco mas grande, gracias a los vecinos, y amigos que supieron apoyarnos desde que arrancamos.
+                                </p>
+                                <p>Abrimos de martes a domingos, de 9.00 a 19.00. Lunes cerrado, pase lo que pase.</p>
                             </div>
                         </div>
                         <div class="span-md-7">
