@@ -1,0 +1,116 @@
+/*
+	SMALL - TABLET
+	768px -> 1024px 
+	COLUMN: 40px;
+	GAP: 24px; 
+*/
+@media only screen and (min-width: 48rem) {
+  .bootstrap-overwrites .navbar {
+    background-color: black;
+    padding-top: 1rem;
+  }
+  .bootstrap-overwrites .navbar .navbar-brand img {
+    width: 152px;
+  }
+  .bootstrap-overwrites .navbar .navbar-brand {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  .fullscreen-bg .fullscreen-bg__video {
+    display: none;
+  }
+  .scotch-container {
+    width: 46.5rem;
+  }
+  html {
+    font-size: 16px;
+  }
+  .grid-doce {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr)[12];
+        grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 1.5rem;
+  }
+  .grid-doce .span-md-3 {
+    grid-column: span 6;
+  }
+  .grid-doce .span-md-4 {
+    grid-column: span 6;
+  }
+  .grid-doce .span-md-5 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-6 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-7 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-6-from-4 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-7-from-2 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-8-solo {
+    grid-column: span 12;
+  }
+  .main-productos .panes .flip-card {
+    margin-top: 3rem;
+  }
+  main.main .instagram-plugin {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+  }
+  main.main .second .parte-uno {
+    padding-top: 13.25rem;
+  }
+  main.main .second .parte-dos {
+    padding-bottom: 4rem;
+  }
+  main.main .second .parte-dos .btn-pan {
+    margin-top: 2rem;
+  }
+  main.main .third .menu-fotos {
+    font-size: 1.125rem;
+  }
+  main.main .third .parallax .fourth-parallax-inner h3 {
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+  }
+  .fourth .suscribite-input {
+    margin: 0;
+    padding: 0;
+  }
+  .fourth .suscribite-input input {
+    height: 3rem;
+    border: none;
+    padding: 0 0 0 1rem;
+    display: inline-block;
+    width: 28rem;
+  }
+  .fourth .suscribite-input button {
+    height: 3rem;
+    margin: 0;
+    display: inline-block;
+    vertical-align: baseline;
+  }
+  .main-contacto {
+    height: 100%;
+    padding-top: 150px;
+  }
+  .main-contacto .grid-doce .span-md-3 {
+    grid-column: span 12;
+  }
+  .nosotros .nosotros-carousel {
+    padding-bottom: 2rem;
+  }
+.main-contacto.contacto-exito,
+.main-work-with-us.contacto-exito  {
+  text-align: center;
+  color: #fff;
+ padding-top: 90px;
+}
+}
+/*# sourceMappingURL=small.css.map */

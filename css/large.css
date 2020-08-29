@@ -1,0 +1,92 @@
+/*
+	LARGE - DESKTOP
+	1366px -> 1921px
+	COLUMN: 80px;
+	GAP: 24px; 
+*/
+@media only screen and (min-width: 85.375rem) {
+  .bootstrap-overwrites .navbar {
+    padding-top: 6rem;
+    background-color: transparent;
+  }
+  .bootstrap-overwrites .navbar.scrolled {
+    background-color: black;
+    padding-top: 1rem;
+  }
+  .bootstrap-overwrites .navbar.scrolled .navbar-brand img {
+    width: 152px;
+  }
+  .bootstrap-overwrites .navbar .navbar-brand {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  .fullscreen-bg .fullscreen-bg__video {
+    display: block;
+  }
+  .scotch-container {
+    width: 76.5rem;
+  }
+  html {
+    font-size: 16px;
+  }
+  p {
+    font-size: 1em;
+  }
+  h5 {
+    font-size: 1.250em;
+  }
+  h4 {
+    font-size: 1.375em;
+  }
+  h3 {
+    font-size: 1.500em;
+  }
+  h2 {
+    font-size: 1.750em;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  main.main .instagram-plugin {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  main.main .parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  main.main .second .parte-dos {
+    padding-top: 8.5rem;
+    padding-bottom: 7rem;
+  }
+  main.main .second .parte-dos #carouselExampleIndicators2 {
+    margin-top: -14rem;
+  }
+  main.main .second .parte-dos img.parte-dos-img-left {
+    margin-bottom: 0;
+    padding-right: 2rem;
+  }
+  main.main .second .parte-dos .btn-pan {
+    margin-top: 0;
+  }
+  main.main .third .parte-uno .menu-fotos p {
+    font-size: 1rem;
+  }
+  main.main .third .parallax .fourth-parallax-inner h3 {
+    font-size: 1.75rem;
+    padding: 0;
+  }
+  main.main .third .parte-dos .libro-descripcion {
+    padding-left: 7.125rem;
+    padding-right: 6.75rem;
+  }
+  .main-productos .panes .flip-card {
+    margin-top: 3rem;
+  }
+  .main-contacto {
+    height: 100vh;
+  }
+}
+/*# sourceMappingURL=large.css.map */

@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/*
+	X-LARGE - DESKTOP
+	1921px -> ∞
+	COLUMN:;
+	GAP: 24px; 
+*/
+@media only screen and (min-width: 120.063rem) {
+  .bootstrap-overwrites .navbar .navbar-brand {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  .scotch-container {
+    width: 112.5rem;
+  }
+  html {
+    font-size: 16px;
+  }
+  p {
+    font-size: 1.250em;
+  }
+  h5 {
+    font-size: 1.500em;
+  }
+  h4 {
+    font-size: 1.750em;
+  }
+  h3 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 2.125em;
+  }
+  h1 {
+    font-size: 2.250em;
+  }
+  main.main .parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+/* RETINA ADJUSMENTS */
+/*# sourceMappingURL=xlarge.css.map */

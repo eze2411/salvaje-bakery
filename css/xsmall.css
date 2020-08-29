@@ -1,0 +1,141 @@
+/*	
+	480px -> 768px
+	COLUMN: 24px;
+	GAP: 16px;
+*/
+@media only screen and (min-width: 30rem) {
+  .bootstrap-overwrites .navbar {
+    background-color: black;
+    padding-top: 1rem;
+  }
+  .bootstrap-overwrites .navbar .navbar-brand img {
+    width: 152px;
+  }
+  .bootstrap-overwrites .navbar .navbar-brand {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  .fullscreen-bg .fullscreen-bg__video {
+    display: none;
+  }
+  .scotch-container {
+    width: 29rem;
+  }
+  html {
+    font-size: 16px;
+  }
+  .grid-doce {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr)[12];
+        grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 1rem;
+  }
+  .grid-doce .span-md-3 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-4 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-5 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-6 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-7 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-6-from-4 {
+    grid-column: span 12;
+  }
+  .grid-doce .span-md-8-solo {
+    grid-column: span 12;
+  }
+  .grid-no-gap .span-md-3 {
+    grid-column: span 12;
+  }
+  .grid-no-gap .span-md-4 {
+    grid-column: span 12;
+  }
+  .grid-no-gap .span-md-5 {
+    grid-column: span 12;
+  }
+  .grid-no-gap .span-md-6 {
+    grid-column: span 12;
+  }
+  .grid-no-gap .span-md-7 {
+    grid-column: span 12;
+  }
+  .main-productos .panes .flip-card {
+    margin-top: 3rem;
+  }
+  main.main .nosotros .nosotros-carousel {
+    padding-bottom: 2rem;
+  }
+  main.main .instagram-plugin {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+  }
+  main.main .second .parte-uno {
+    padding-top: 8.25rem;
+  }
+  main.main .second .parte-dos {
+    padding-bottom: 4rem;
+  }
+  main.main .second .parte-dos .btn-pan {
+    margin-top: 2rem;
+  }
+  main.main .parallax {
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  main.main .fourth .parallax .fourth-parallax-inner .suscribite-input {
+    margin: 0;
+    padding: 0;
+  }
+  main.main .fourth .parallax .fourth-parallax-inner .suscribite-input input {
+    height: 3rem;
+    border: none;
+    padding: 0 0 0 1rem;
+    display: inline-block;
+    width: 25rem;
+  }
+  main.main .fourth .parallax .fourth-parallax-inner .suscribite-input button {
+    height: 3rem;
+    margin: 0;
+    display: inline-block;
+    vertical-align: baseline;
+  }
+  main.main .fourth .parallax .fourth-parallax-inner .suscribite-input button:hover {
+    color: #fff;
+  }
+  main.main .third .menu-fotos p {
+    font-size: 1.125rem;
+  }
+  main.main .third .parte-dos .libro-descripcion {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  main.main .third .parallax .fourth-parallax-inner h3 {
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+  }
+  main.main .main-contacto {
+    height: 100%;
+    padding-top: 150px;
+  }
+  main.main .main-contacto .grid-doce .span-md-6 {
+    grid-column: span 12;
+  }
+.main-contacto.contacto-exito,
+.main-work-with-us.contacto-exito  {
+  text-align: center;
+  color: #fff;
+ padding-top: 90px;
+}
+}
+
+/*# sourceMappingURL=xsmall.css.map */
