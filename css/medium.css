@@ -129,12 +129,6 @@
   .main-contacto .grid-doce .span-md-3 {
     grid-column: span 3;
   }
-  .nosotros p {
-    padding-right: 6rem;
-  }
-  .nosotros .nosotros-carousel {
-    padding-bottom: 0;
-  }
 .main-contacto.contacto-exito,
 .main-work-with-us.contacto-exito  {
   text-align: center;

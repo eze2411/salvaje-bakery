@@ -67,9 +67,6 @@
   .grid-no-gap .span-md-7 {
     grid-column: span 12;
   }
-  main.main .nosotros .nosotros-carousel {
-    padding-bottom: 2rem;
-  }
   main.main .instagram-plugin {
     padding-top: 4.5rem;
     padding-bottom: 4.5rem;

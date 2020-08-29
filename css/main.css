@@ -1314,27 +1314,6 @@ main.main .fourth .parte-dos iframe {
   font-weight: 700;
 }
 
-.nosotros {
-  background-image: url(../img/nosotros-background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  -webkit-box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.65);
-          box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.65);
-}
-
-.nosotros .grid-doce {
-  margin-top: 6rem;
-}
-
-.nosotros p {
-  color: #fff;
-}
-
-.nosotros .nosotros-carousel {
-  padding-bottom: 2rem;
-}
-
 .main-contacto {
   height: 100%;
   background-image: url(../img/contacto-background.png);
