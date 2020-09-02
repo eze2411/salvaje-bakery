@@ -79,9 +79,6 @@
   .grid-no-gap .span-md-6 {
     grid-column: span 6;
   }
-  .main-productos .panes .flip-card {
-    margin-top: 3.5rem;
-  }
   main.main .instagram-plugin {
     padding-top: 6rem;
     padding-bottom: 6rem;
@@ -116,19 +113,12 @@
     margin-bottom: 0rem;
     padding-right: 2rem;
   }
-  main.main .second .parte-dos .btn-pan {
-    margin-top: 0;
-  }
   main.main .third .parte-uno .menu-fotos p {
     font-size: 1rem;
   }
   main.main .third .parallax .fourth-parallax-inner h3 {
     font-size: 1.75rem;
     padding: 0;
-  }
-  main.main .third .parte-dos .libro-descripcion {
-    padding-left: 4.125rem;
-    padding-right: 3.75rem;
   }
   .main-work-with-us form button {
     margin-top: 0rem;
@@ -138,12 +128,6 @@
   }
   .main-contacto .grid-doce .span-md-3 {
     grid-column: span 3;
-  }
-  .nosotros p {
-    padding-right: 6rem;
-  }
-  .nosotros .nosotros-carousel {
-    padding-bottom: 0;
   }
 .main-contacto.contacto-exito,
 .main-work-with-us.contacto-exito  {
