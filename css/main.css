@@ -1091,31 +1091,6 @@ main.main .second .parte-dos p {
   margin-bottom: 2rem;
 }
 
-main.main .second .parte-dos .btn-pan {
-  margin-top: 2rem;
-  padding: .75rem  1.75rem;
-  -webkit-box-shadow: 0 0 0 2px #fff;
-          box-shadow: 0 0 0 2px #fff;
-}
-
-main.main .second .parte-dos .btn-pan:before {
-  content: url(../img/pan.svg);
-  margin-right: 5px;
-  display: inline-block;
-  width: 40px;
-}
-
-main.main .second .parte-dos .btn-pan:hover:before {
-  content: url(../img/pan-2.svg);
-}
-
-main.main .second .parte-dos .btn-pan:hover {
-  background-color: #fff;
-  -webkit-box-shadow: 0 0 0 2px #121212;
-          box-shadow: 0 0 0 2px #121212;
-  color: #121212;
-}
-
 main.main .square {
   height: 65vh;
 }
@@ -1201,42 +1176,6 @@ main.main .third .parte-uno .menu-fotos p {
 
 main.main .third .parte-uno .menu-fotos p:hover {
   text-decoration: none;
-}
-
-main.main .third .parte-dos .libro-descripcion {
-  background-image: url(../img/parte-dos-libro-fondo.png);
-  background-size: cover;
-  color: white;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  padding-bottom: 3rem;
-  height: 100%;
-}
-
-main.main .third .parte-dos .libro-descripcion h3 {
-  padding-top: 3rem;
-  margin-bottom: 1.75rem;
-}
-
-main.main .third .parte-dos .libro-descripcion p {
-  line-height: 26px;
-}
-
-main.main .third .parte-dos .libro-descripcion p.bold {
-  margin-bottom: 3rem;
-}
-
-main.main .third .parte-dos .libro-descripcion img {
-  padding-right: 2.75rem;
-  margin-bottom: 3.75rem;
-}
-
-main.main .third .parte-dos .background-img-libro {
-  background-image: url(../img/parte-dos-libro.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top center;
-  min-height: 21.875rem;
 }
 
 main.main .instagram-plugin {
@@ -1373,133 +1312,6 @@ main.main .fourth .parte-dos iframe {
 .footer p a:hover {
   text-decoration: none;
   font-weight: 700;
-}
-
-.nosotros {
-  background-image: url(../img/nosotros-background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  -webkit-box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.65);
-          box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.65);
-}
-
-.nosotros .grid-doce {
-  margin-top: 6rem;
-}
-
-.nosotros p {
-  color: #fff;
-}
-
-.nosotros .nosotros-carousel {
-  padding-bottom: 2rem;
-}
-
-.main-productos .portada {
-  background-image: url(../img/productos-portada.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  -webkit-box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.5);
-          box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.5);
-  color: white;
-  text-align: center;
-}
-
-.main-productos .portada h3 {
-  margin-bottom: 2.25rem;
-  font-size: 1.5rem;
-  margin-top: 2.5rem;
-}
-
-.main-productos .portada p {
-  margin-bottom: 0;
-}
-
-.main-productos .panes {
-  padding-top: 2.5rem;
-  padding-bottom: 4.5rem;
-  text-align: center;
-}
-
-.main-productos .panes .pan-uno, .main-productos .panes .pan-dos, .main-productos .panes .pan-tres, .main-productos .panes .pan-cuatro, .main-productos .panes .pan-cinco, .main-productos .panes .pan-seis,
-.main-productos .panes .pan-siete, .main-productos .panes .pan-ocho {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-
-.main-productos .panes .flip-card {
-  position: relative;
-  margin-top: 3rem;
-}
-
-.main-productos .panes .flip-card:hover img:nth-child(2) {
-  z-index: 1;
-}
-
-.main-productos .panes img {
-  margin-bottom: 2.5rem;
-  -webkit-transition: .2s ease-in-out;
-  transition: .2s ease-in-out;
-}
-
-.main-productos .panes img:nth-child(2) {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-}
-
-.main-productos .panes p {
-  color: #121212;
-  margin-bottom: 1.5rem;
-}
-
-.main-productos .masa-madre {
-  text-align: center;
-  background-image: url(../img/productos-masa-madre-background.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  -webkit-box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.35);
-          box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.35);
-}
-
-.main-productos .masa-madre p.span-md-8-solo {
-  margin-bottom: 3rem;
-}
-
-.main-productos .masa-madre img {
-  width: 48px;
-  margin-bottom: 1.5rem;
-}
-
-.main-productos .clases-de-panaderia {
-  color: white;
-  background-image: url(../img/productos-clases-background.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  padding-top: 9rem;
-  padding-bottom: 5.5rem;
-  -webkit-box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.35);
-          box-shadow: inset 0 0 0 1000px rgba(48, 48, 48, 0.35);
-  text-align: center;
-}
-
-.main-productos .clases-de-panaderia h3 {
-  font-size: 1.375rem;
-  margin-bottom: 1rem;
-}
-
-.main-productos .clases-de-panaderia p {
-  margin-bottom: 3.25rem;
 }
 
 .main-contacto {

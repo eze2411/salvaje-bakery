@@ -86,14 +86,16 @@
                             <div class="display-flex display-flex-column display-flex-center">
                                 <div>
                                     <img class="second-zepplin d-xs-none d-sm-none d-md-none d-lg-block" src="img/home-second-zeppelin.png" alt="">
-                                </div>    
+                                </div>
                                 <p class="bold">Panadería alternativa de barrio. </p>
                                 <p>Somos una panadería artesanal puesta en marcha en un garage de Colegiales/Palermo, donde marcamos un estilo particular en cada producto que ofrecemos. En Salvaje nada es común. Ni un café ni una simple medialuna. </p>
-                                <p>Nuestros panes son diariamente pensados, mezclando harinas, masa madre y larga fermentación. 
-                                <br>
-                                Nuestra pastelería es integral y con una vuelta de rosca. Todo el hojaldre es amasado y estirado a mano. </p>
-                                <p>En Salvaje siempre suena buena música, el café es de excelente calidad, y además contamos con una rica propuesta de almuerzo y brunch. Sánguches, tartas, sopas, jugos, tragos y algunos vinos. Tenemos opciones vegan de cocina y pastelería, y también nuestra propia leche de almendras hecha en Salvaje.</p>
-                                <p>Abrimos de martes a domingos, de 9.00 a 21.00. Lunes cerrado, pase lo que pase. </p>
+                                <p>Formamos, pero tambien aprendimos de muchos profesionales durante estos casi 4 años. Hoy en dia ofrecemos cafe para llevar, y una gran variedad de pasteleria.</p>
+                                <p>
+                                    Nuestros panes son diariamente pensados, mezclando harinas, masa madre y larga fermentación.
+                                    <br>
+                                    Cada dia Salvaje es un poco mas grande, gracias a los vecinos, y amigos que supieron apoyarnos desde que arrancamos.
+                                </p>
+                                <p>Abrimos de martes a domingos, de 9.00 a 19.00. Lunes cerrado, pase lo que pase.</p>
                             </div>
                         </div>
                         <div class="span-md-7">
@@ -141,7 +143,6 @@
                         <p class="bold">Pan de Masa Madre</p>
                         <p>Nuestra misión diaria es ofrecer panes distintos y artesanales. Al trabajar con masa madre y llamarnos Salvaje, el comportamiento de nuestros panes es orgánico, nunca salen idénticos y tampoco buscamos eso. Usamos las mejores harinas posibles, generando combinaciones únicas. </p>
                         <p>No usamos harina 0000 ni leudante. Cada receta se compone de un blend exclusivo de harinas y trabajamos con nuestras manos, recuperando así, el valor y el sabor del producto artesanal. Toda la elaboración es a la vista. Todo lo que ofrecemos, se hace acá mismo.</p>
-                        <a href="/productos.php" class="btn btn-primary btn-pan">  Nuestros Productos</a>
                     </div>
                 </div>
             </div>
@@ -154,71 +155,19 @@
                 <div class="parte-uno">
                     <div class="container">
                         <div class="grid-doce">
-                            <div class="span-md-4">
+                            <div class="span-md-6">
                                 <a target="_blank" href="img/MenuSalvaje.pdf">
                                     <div id="menu-fotos-uno" class="menu-fotos display-flex display-flex-center display-flex-center-2">
                                         <p>Menú Salvaje</p>
                                     </div>
                                 </a>
                             </div>
-                            <div class="span-md-4">
-                                <a href="/nosotros.php">
-                                    <div id="menu-fotos-dos" class="menu-fotos display-flex display-flex-center display-flex-center-2">
-                                        <p>Nuestra Historia</p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="span-md-4">
+                            <div class="span-md-6">
                                 <a href="/unitealequipo.php">
                                     <div id="menu-fotos-tres" class="menu-fotos display-flex display-flex-center display-flex-center-2">
                                         <p>Trabajá con nosotros</p>
                                     </div>
                                 </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="parte-dos">
-                    <div class="grid-no-gap parte-dos-libro">
-                        <div class="span-md-6 background-img-libro">
-                            
-                        </div>
-                        <div class="span-md-6">
-                            <div class="libro-descripcion display-flex display-flex-column display-flex-center">
-                                <h3>Pan de Garage</h3>
-                                <p>Conseguilo online, en todas las librerías del país y en nuestro local.</p>
-                                <div>
-                                    <a target="_blank" href="https://www.planetadelibros.com.ar/libro-pan-de-garage/296989#soporte/300461">
-                                        <img src="img/parte-dos-ebook.png" alt="">
-                                    </a>    
-                                    <a target="_blank" href="https://articulo.mercadolibre.com.ar/MLA-797300712-pan-de-garage-german-torres-_JM?quantity=1#position=3&type=item&tracking_id=5196ad79-e241-4d0e-9649-14b82b6b9800">
-                                        <img src="img/parte-dos-mercadolibre.png" alt="">
-                                    </a>
-                                </div>
-                                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                                    <ol class="carousel-indicators">
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                                        
-                                    </ol>
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <p>¨La aparición de Salvaje nos obligo a todos los cocineros a usar pan de altísima calidad, como nunca antes. De Salvaje me gusta lo no domado, esa suelta de energía que nunca sabes a donde te lleva.¨</p>
-                                            <p>Antonio Soriano, chef ejecutivo del Palacio Duhau.</p><br><br>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <p>¨Salvaje es lo que es. El publico entra, lleva un pan para la casa, se toma una taza de café o se sienta a llenarse de bocaditos de la casa. En las paredes no hay lujo, solo muestras de un proyecto hecho con esfuerzo, con amor y con el deseo de dar cada día un mejor pan.¨</p>
-                                            <p>Santiago Macias, chef y dueño de I Latina.</p><br>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <p>¨Dedicado, apasionado y soñador, esa es la receta de German Torres. Lo mejor se está horneando.¨</p>
-                                            <p>Gonzalo Aramburu, chef de Aramburu</p><br><br><br>
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                                
                             </div>
                         </div>
                     </div>
@@ -252,7 +201,7 @@
                                 <p><i class="far fa-calendar-alt"></i> Martes a Domingo</p>
                             </div>
                             <div class="span-md-3">
-                                <p><i class="far fa-clock"></i> 09:00 a 21:00 hs.</p>
+                                <p><i class="far fa-clock"></i> 09:00 a 19:00 hs.</p>
                             </div>
                             <div class="span-md-3">
                                 <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2068-6943</p>

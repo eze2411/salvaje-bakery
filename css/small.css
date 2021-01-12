@@ -56,9 +56,6 @@
   .grid-doce .span-md-8-solo {
     grid-column: span 12;
   }
-  .main-productos .panes .flip-card {
-    margin-top: 3rem;
-  }
   main.main .instagram-plugin {
     padding-top: 4.5rem;
     padding-bottom: 4.5rem;
@@ -68,9 +65,6 @@
   }
   main.main .second .parte-dos {
     padding-bottom: 4rem;
-  }
-  main.main .second .parte-dos .btn-pan {
-    margin-top: 2rem;
   }
   main.main .third .menu-fotos {
     font-size: 1.125rem;
@@ -102,9 +96,6 @@
   }
   .main-contacto .grid-doce .span-md-3 {
     grid-column: span 12;
-  }
-  .nosotros .nosotros-carousel {
-    padding-bottom: 2rem;
   }
 .main-contacto.contacto-exito,
 .main-work-with-us.contacto-exito  {
