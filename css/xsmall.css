@@ -67,12 +67,6 @@
   .grid-no-gap .span-md-7 {
     grid-column: span 12;
   }
-  .main-productos .panes .flip-card {
-    margin-top: 3rem;
-  }
-  main.main .nosotros .nosotros-carousel {
-    padding-bottom: 2rem;
-  }
   main.main .instagram-plugin {
     padding-top: 4.5rem;
     padding-bottom: 4.5rem;
@@ -82,9 +76,6 @@
   }
   main.main .second .parte-dos {
     padding-bottom: 4rem;
-  }
-  main.main .second .parte-dos .btn-pan {
-    margin-top: 2rem;
   }
   main.main .parallax {
     background-attachment: scroll;
@@ -114,10 +105,6 @@
   }
   main.main .third .menu-fotos p {
     font-size: 1.125rem;
-  }
-  main.main .third .parte-dos .libro-descripcion {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
   }
   main.main .third .parallax .fourth-parallax-inner h3 {
     font-size: 1.5rem;
