@@ -615,20 +615,38 @@ p.bold {
     line-height: 35px;
 }
 .bootstrap-overwrites .cta p {
+  margin-top: 1.5rem;
     margin-bottom: 2rem;
     margin-left:.5rem;
 }
-.bootstrap-overwrites .cta a {
+.bootstrap-overwrites .cta .btn-menu {
     color: black;
     border: 1px solid white;
-    width: 11.625rem;
+    width: 12rem;
     margin-bottom: 1rem;
+    font-size: 1.2rem;
 }
-.bootstrap-overwrites .cta a:hover {
+.bootstrap-overwrites .cta .btn-menu:hover {
     color: #fff;
     background-color: transparent;
     border: 1px solid white;
 }
+
+.bootstrap-overwrites .cta .btn-chat {
+  margin-top: 1.5rem;
+  font-weight: 400;
+  display: block;
+  color: white;
+}
+
+.bootstrap-overwrites .cta .btn-link:hover {
+  text-decoration: none;
+}
+
+.bootstrap-overwrites .cta .btn-link:hover span {
+  text-decoration: underline;
+}
+
 @media only screen and (min-width: 30rem) {
 
 .bootstrap-overwrites .cta a:first-child: margin-right:1rem;

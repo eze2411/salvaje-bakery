@@ -62,8 +62,11 @@
                 <div class="cta">
                     <p>Mirá todo lo que tenemos para ofrecerte</p>
                     <div>
-                        <a target="_blank" href="img/MenuSalvaje.pdf" class="btn btn-secondary">Ver nuestro menú</a>
-                        <a target="_blank" href="img/MenuPromos.pdf" class="btn btn-secondary">Promociones</a>
+                        <a target="_blank" href="img/MenuSalvaje.pdf" class="btn btn-secondary btn-menu">Nuestro menú</a>
+                        <a target="_blank" href="https://wa.link/hobf7p" class="btn btn-link btn-chat">
+                            <i class="d-block fa fa-whatsapp fa-2x"></i>
+                            <span>Chateá con nosotros</span>
+                        </a>
                     </div>
                 </div>
                 <div class="fullscreen-bg">
@@ -95,7 +98,7 @@
                                     <br>
                                     Cada dia Salvaje es un poco mas grande, gracias a los vecinos, y amigos que supieron apoyarnos desde que arrancamos.
                                 </p>
-                                <p>Abrimos de martes a domingos, de 9.00 a 19.00. Lunes cerrado, pase lo que pase.</p>
+                                <p>Abrimos de martes a domingos, de 9.00 a 21.00. Lunes cerrado, pase lo que pase.</p>
                             </div>
                         </div>
                         <div class="span-md-7">
@@ -201,10 +204,10 @@
                                 <p><i class="far fa-calendar-alt"></i> Martes a Domingo</p>
                             </div>
                             <div class="span-md-3">
-                                <p><i class="far fa-clock"></i> 09:00 a 19:00 hs.</p>
+                                <p><i class="far fa-clock"></i> 09:00 a 21:00 hs.</p>
                             </div>
                             <div class="span-md-3">
-                                <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2068-6943</p>
+                                <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2086-6943</p>
                             </div>
                         </div>
                     </div>
