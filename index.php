@@ -207,7 +207,7 @@
                                 <p><i class="far fa-clock"></i> 08:00 a 20:00 hs.</p>
                             </div>
                             <div class="span-md-3">
-                                <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2086-6943</p>
+                                <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2474-3573</p>
                             </div>
                         </div>
                     </div>

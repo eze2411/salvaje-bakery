@@ -81,7 +81,7 @@
                     <p><i class="fas fa-map-marker-alt"></i> Av. Dorrego 1829 - CABA</p>
                     <p><i class="far fa-calendar-alt"></i> Martes a Domingo</p>
                     <p><i class="far fa-clock"></i> 08:00 a 20:00 hs. </p>
-                    <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2086-6943</p>
+                    <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2474-3573</p>
                     <p><a style="color:#fff;" href="mailto:info@salvajebakery.com.ar" target="_blank">info@salvajebakery.com.ar</a></p>
                 </div>
             </div>
