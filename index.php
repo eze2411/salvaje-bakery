@@ -98,7 +98,7 @@
                                     <br>
                                     Cada dia Salvaje es un poco mas grande, gracias a los vecinos, y amigos que supieron apoyarnos desde que arrancamos.
                                 </p>
-                                <p>Abrimos de martes a domingos, de 9.00 a 21.00. Lunes cerrado, pase lo que pase.</p>
+                                <p>Abrimos de martes a domingos, de 8.00 a 20.00. Lunes cerrado, pase lo que pase.</p>
                             </div>
                         </div>
                         <div class="span-md-7">
@@ -204,7 +204,7 @@
                                 <p><i class="far fa-calendar-alt"></i> Martes a Domingo</p>
                             </div>
                             <div class="span-md-3">
-                                <p><i class="far fa-clock"></i> 09:00 a 21:00 hs.</p>
+                                <p><i class="far fa-clock"></i> 08:00 a 20:00 hs.</p>
                             </div>
                             <div class="span-md-3">
                                 <p><i class="fas fa-phone-alt"></i> Tel: +54 11 2086-6943</p>
